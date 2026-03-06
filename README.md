@@ -1,6 +1,6 @@
 ##pigeonsort
-Name:Tracy Mboya
-RegNo:EB3/64680/23
+##Name:Tracy Mboya
+##RegNo:EB3/64680/23
 
 ##Description
 Sorting 10 million numbers using pigeonhole sort:
